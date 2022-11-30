@@ -1,0 +1,18 @@
+.user-form {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid darkgray;
+    background-color: lightgreen;
+    width: 250px;
+}
+
+button {
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+p {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 5px;
+}
