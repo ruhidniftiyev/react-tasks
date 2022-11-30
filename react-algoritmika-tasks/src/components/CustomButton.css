@@ -1,0 +1,7 @@
+.warning {
+    border: 2px solid red;
+}
+
+.hint {
+    font-style: italic;
+}
