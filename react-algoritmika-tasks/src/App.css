@@ -39,3 +39,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.name {
+  background-color: bisque;
+}
+
+.info {
+  background-color: burlywood;
+}
+
+.App {
+  border: 1px solid black;
+  transition: 1s;
+}
+
+.App:hover {
+  transform: scale(1.2);
+}
